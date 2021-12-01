@@ -1512,10 +1512,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"actioncable@npm:^5.2.3":
-  version: 5.2.3
-  resolution: "actioncable@npm:5.2.3"
-  checksum: b7d9a2d89fde63d35cb29fc3e0ec9a941f892c89c638d9a59b8df997ca3abc90e2d11019ca8e46a25d7716feb7ba9d96c798c8c8c8b8433df61e3ce72bc8550f
+"actioncable@npm:^5.2.6":
+  version: 5.2.6
+  resolution: "actioncable@npm:5.2.6"
+  checksum: f03531e0c0d3217a0bbff9124fdd5d8ca173f26a401889c99e5f2b74f5d2f971930c0ef724e6e2d6b37052aa472ff5005a0c437ca005b88ba8a4f4b88324ece8
   languageName: node
   linkType: hard
 
@@ -8037,7 +8037,7 @@ __metadata:
     "@types/actioncable": ^5.2.7
     "@types/react": ^16.8.14
     "@types/react-dom": ^16.8.4
-    actioncable: ^5.2.3
+    actioncable: ^5.2.6
     axios: ^0.24.0
     axios-case-converter: ^0.2.1
     babel-plugin-transform-react-remove-prop-types: ^0.4.24
