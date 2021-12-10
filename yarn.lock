@@ -1261,12 +1261,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-dom@npm:^16.8.4":
-  version: 16.8.4
-  resolution: "@types/react-dom@npm:16.8.4"
+"@types/react-dom@npm:^16.9.14":
+  version: 16.9.14
+  resolution: "@types/react-dom@npm:16.9.14"
   dependencies:
-    "@types/react": "*"
-  checksum: 8fb1a321312fa806f78f195b68fb13deb9d6fc54fda4f557cfc6532353044eadd99d99d25cc935d7fdb6e041b75a3d0a85693d8aeb0e9fea06177ff01b48efe3
+    "@types/react": ^16
+  checksum: 68a4ee88f7a56cdbfbca24b1936b9aa5dad8b40ffbf1f047ddf990454aec6e0c9da2a01c9ae87045e95236602061646c90d02f01281533e14f1970687873030f
   languageName: node
   linkType: hard
 
@@ -8001,7 +8001,7 @@ __metadata:
     "@tinymce/tinymce-react": ^2.6.1
     "@types/actioncable": ^5.2.7
     "@types/react": ^16.14.21
-    "@types/react-dom": ^16.8.4
+    "@types/react-dom": ^16.9.14
     actioncable: ^5.2.3
     axios: ^0.24.0
     axios-case-converter: ^0.2.1
