@@ -11,7 +11,7 @@
     "@babel/preset-react": "^7.0.0",
     "@babel/preset-typescript": "^7.1.0",
     "@blueprintjs/core": "3.14.1",
-    "@blueprintjs/datetime": "^3.5.0",
+    "@blueprintjs/datetime": "^3.23.18",
     "@blueprintjs/icons": "^3.3.0",
     "@blueprintjs/timezone": "^3.1.0",
     "@rails/webpacker": "^4.0.0-rc.7",
